@@ -124,8 +124,8 @@ class ScreenLocation extends StatelessWidget {
           ),
           Positioned(
             bottom: 140,
-            left: 110,
-            right: 110,
+            left: 100,
+            right: 100,
             child: Container(
               width: 175,
               padding: const EdgeInsets.all(5),
